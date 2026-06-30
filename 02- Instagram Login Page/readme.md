@@ -1,3 +1,4 @@
 Bu pratik çalışmasında Popüler Sosyal Medya uygulamalarından olan Instagram ın Login ekranını yaptım.
 
-![UI ](https://hizliresim.com/dledn32)
+
+<img src="https://i.hizliresim.com/dledn32" width="320" alt="Instagram Login Page UI Screenshot">
